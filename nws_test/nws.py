@@ -7,6 +7,7 @@ import time
 
 path = "C:/Users/trent/Downloads/chromedriver_win32/chromedriver.exe"
 # The web browser is Chrome; web driver for browser is located at path
+# Webdriver is web automation framework
 
 driver = webdriver.Chrome(path)
 
